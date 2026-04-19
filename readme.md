@@ -1,4 +1,4 @@
-markdown
+
 # 👋 Hi, I'm Momina!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=false&vCenter=true&width=600&lines=Software+Developer;AI+Enthusiast;.NET+Specialist;Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
