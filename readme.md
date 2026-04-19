@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Momina!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=false&vCenter=true&width=600&lines=Software+Developer;AI+Enthusiast;.NET+Specialist;Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
@@ -11,7 +10,7 @@ I'm a passionate **Software Developer** specializing in **C# .NET** and **AI-pow
 - 🌱 I'm learning **Azure Cloud** & **Machine Learning**
 - 👯 I'm looking to collaborate on **Open Source .NET Projects**
 - 💬 Ask me about **C#, .NET, AI Integration, Desktop Applications**
-- 📫 Reach me: **momina@example.com**
+- 📫 Reach me: **nawazmomina8@gmail.com**
 - ⚡ Fun fact: I love turning coffee into code! ☕
 
 ---
@@ -96,7 +95,6 @@ Tech Stack: Java, Spring Boot, AI Algorithms
 📈 Contribution Graph
 https://github-readme-activity-graph.vercel.app/graph?username=Momina-debug&theme=tokyo-night&hide_border=true&area=true
 
-🎯 Current Focus
 📫 Connect With Me
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
@@ -123,3 +121,46 @@ https://img.shields.io/badge/Buy%2520Me%2520a%2520Coffee-ffdd00?style=for-the-ba
 ⭐️ From Momina-debug | Last Updated: April 2026
 
 </div> ```
+🔧 What Was Broken & Fixed
+Problem	Fix
+Missing ### headers	Added proper Markdown headers
+Broken badge links	Fixed badge URLs
+Missing [![Repo]] syntax	Added proper link formatting
+Unclosed markdown blocks	Closed all blocks properly
+Missing code block endings	Added proper ``` closing tags |
+✅ How to Commit
+Copy the entire fixed README above
+
+Go to your repository Momina-debug/Momina-debug
+
+Click on README.md file
+
+Click Edit (pencil icon)
+
+Delete all existing content
+
+Paste the new content
+
+Click "Commit changes"
+
+🎯 What You'll See After Fix
+Your profile will now display:
+
+✅ Animated typing header
+
+✅ Properly formatted GitHub stats
+
+✅ Beautiful badge rows
+
+✅ Tables with features
+
+✅ Working social links
+
+✅ Properly aligned content
+
+✅ Professional looking portfolio
+
+Your portfolio will look AMAZING! 🌟
+
+Go ahead and commit the fixed version! 🚀
+
