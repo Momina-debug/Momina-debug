@@ -67,100 +67,44 @@ I'm a passionate **Software Developer** specializing in **C# .NET** and **AI-pow
 | 🐳 **Docker Support** | Containerized for easy deployment |
 | 💾 **Data Persistence** | JSON file storage with export/import functionality |
 
-**Tech Stack:** C# .NET 8.0, Newtonsoft.Json, Docker, OOP Principles
+### 🤖 AI Chatbot Assistant
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Momina-debug/AIChatbot) 
 
-```bash
-git clone https://github.com/Momina-debug/SmartLibrary.git
-cd SmartLibrary
-dotnet run
-🤖 AI Chatbot Assistant
-https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github
+*A desktop-based AI Assistant using Google Gemini API for real-time conversations*
 
-A desktop-based AI Assistant using Google Gemini API for real-time conversations
+| Feature | Description |
+|---------|-------------|
+| 💬 **Real-time Chat** | Natural language conversations with AI |
+| 🎨 **Modern UI** | Windows Forms desktop application |
+| 🔑 **API Integration** | Seamless Google Gemini API integration |
+| 📝 **Chat History** | Save and load conversation history |
 
-Feature	Description
-💬 Real-time Chat	Natural language conversations with AI
-🎨 Modern UI	Windows Forms desktop application
-🔑 API Integration	Seamless Google Gemini API integration
-📝 Chat History	Save and load conversation history
-Tech Stack: C# .NET 8.0, Google Gemini API, Windows Forms
+### 🧠 Intelligent Language Learner
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Momina-debug/LanguageLearner)
 
-🧠 Intelligent Language Learner
-https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github
+*An adaptive language learning platform powered by AI*
 
-An adaptive language learning platform powered by AI
+---
 
-Tech Stack: Java, Spring Boot, AI Algorithms
+## 📈 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Momina-debug&theme=tokyo-night&hide_border=true&area=true)
 
-📈 Contribution Graph
-https://github-readme-activity-graph.vercel.app/graph?username=Momina-debug&theme=tokyo-night&hide_border=true&area=true
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nawazmomina8@gmail.com)
 
-📫 Connect With Me
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white
+## 🏅 Badges & Achievements
+![Followers](https://img.shields.io/github/followers/Momina-debug?style=social)
+![Stars](https://img.shields.io/github/stars/Momina-debug?style=social)
+![Views](https://komarev.com/ghpvc/?username=Momina-debug&color=6C63FF)
 
-🏅 Badges & Achievements
-https://img.shields.io/github/followers/Momina-debug?style=social
-https://img.shields.io/github/stars/Momina-debug?style=social
-https://komarev.com/ghpvc/?username=Momina-debug&color=6C63FF
+## 💡 Quote of the Day
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-Coming soon...
-
-<!-- BLOG-POST-LIST:END -->
-💡 Quote of the Day
-"Code is like humor. When you have to explain it, it's bad." – Cory House
-
-☕ Support My Work
-https://img.shields.io/badge/Buy%2520Me%2520a%2520Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
+## ☕ Support My Work
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
 
 <div align="center">
 ⭐️ From Momina-debug | Last Updated: April 2026
-
-</div> ```
-🔧 What Was Broken & Fixed
-Problem	Fix
-Missing ### headers	Added proper Markdown headers
-Broken badge links	Fixed badge URLs
-Missing [![Repo]] syntax	Added proper link formatting
-Unclosed markdown blocks	Closed all blocks properly
-Missing code block endings	Added proper ``` closing tags |
-✅ How to Commit
-Copy the entire fixed README above
-
-Go to your repository Momina-debug/Momina-debug
-
-Click on README.md file
-
-Click Edit (pencil icon)
-
-Delete all existing content
-
-Paste the new content
-
-Click "Commit changes"
-
-🎯 What You'll See After Fix
-Your profile will now display:
-
-✅ Animated typing header
-
-✅ Properly formatted GitHub stats
-
-✅ Beautiful badge rows
-
-✅ Tables with features
-
-✅ Working social links
-
-✅ Properly aligned content
-
-✅ Professional looking portfolio
-
-Your portfolio will look AMAZING! 🌟
-
-Go ahead and commit the fixed version! 🚀
-
+</div>
